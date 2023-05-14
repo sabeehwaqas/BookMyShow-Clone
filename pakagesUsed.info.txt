@@ -1,0 +1,4 @@
+headless -> acordians
+react-slick -> carousal
+axios -> 
+react-icons -> icons
